@@ -6,7 +6,7 @@
 
 [Voting Smart Contract-3;](https://github.com/umaysafak/Solidity-Beginner-Projects/blob/main/Voting_Smart_Contract-3.sol)
 
-[Ether Wallet-4;]()
+[Ether Wallet-4;](https://github.com/umaysafak/Solidity-Beginner-Projects/blob/main/Ether_Wallet-4.sol)
 
 [Multi Sende-5;]()
 
