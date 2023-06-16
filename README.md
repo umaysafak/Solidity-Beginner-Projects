@@ -2,7 +2,7 @@
 
 [Hello Word-1;](https://github.com/umaysafak/Solidity-Beginner-Projects/blob/main/Hello_World-1.sol)
 
-[Simple Storage-2;]()
+[Simple Storage-2;](https://github.com/umaysafak/Solidity-Beginner-Projects/blob/main/Simple_Storage-2.sol)
 
 [Voting Smart Contract-3;]()
 
