@@ -1,4 +1,3 @@
-
 // SPDX-License-Identifier: MIT
 
 pragma solidity ^0.8.0;
@@ -41,6 +40,7 @@ contract Voting {
         return votes[_choice].length;
     }
 }
+
 /*
 This Smart Contract Voting project creates a voting mechanism in Solidity. Inside the contract, there is a structure named 'Vote' and a mapping named 'votes'.
 
