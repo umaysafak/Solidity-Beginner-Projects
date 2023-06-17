@@ -12,7 +12,7 @@
 
 [Time Lock-6;](https://github.com/umaysafak/Solidity-Beginner-Projects/blob/main/Time_Lock-6.sol)
 
-[ERC20 Token-7;]()
+[ERC20 Token-7;](https://github.com/umaysafak/Solidity-Beginner-Projects/blob/main/ERC20_Token-7.sol)
 
 [Token Wallet-8;]()
 
