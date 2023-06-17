@@ -10,7 +10,7 @@
 
 [Multi Sende-5;](https://github.com/umaysafak/Solidity-Beginner-Projects/blob/main/Multi_Send-5.sol)
 
-[Time Lock-6;]()
+[Time Lock-6;](https://github.com/umaysafak/Solidity-Beginner-Projects/blob/main/Time_Lock-6.sol)
 
 [ERC20 Token-7;]()
 
