@@ -8,9 +8,6 @@ contract ICO {
     uint256 public tokenPrice; // Price of the token
     uint256 public totalTokens; // Total token amount
     uint256 public totalSold; // Total tokens sold
-
-    scss
-    Copy code
     mapping(address => uint256) public balances;          // Mapping to store user token balances
 
     event TokenPurchased(address indexed buyer, uint256 amount, uint256 totalCost);
@@ -53,6 +50,7 @@ contract ICO {
         return balances[msg.sender];
     }
 }
+
 
 /*
 This contract is an Ethereum smart contract used for conducting an ICO (Initial Coin Offering), which is a token sale process.
