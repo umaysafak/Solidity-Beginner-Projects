@@ -39,6 +39,7 @@ contract TimeLock {
         emit LockReleased(msg.sender, amount);
 
         payable(msg.sender).transfer(amount);
+    }   
 }
 
 /*
